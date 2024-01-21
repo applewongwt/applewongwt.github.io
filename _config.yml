@@ -24,7 +24,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: appleavatar.jpg
+author_logo: profile.png
 author: Wai Teng
 author_bio: Hi, my name is Wai Teng. Baby steps in my tech journey~ 
 author_email: "applewongwt@gmail.com"
