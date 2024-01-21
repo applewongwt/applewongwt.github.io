@@ -1,5 +1,5 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Apple
+subtitle: This is how I do it:) 
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -26,11 +26,11 @@ urls:
 
 # author_logo: profile.png
 author: Wai Teng
-author_bio: Hi, my name is Wai Teng. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author_bio: Hi, my name is Wai Teng. Baby steps in my tech journey~ 
+author_email: "applewongwt@gmail.com"
+author_location: Singapore
+# author_website_url: "https://sujaykundu.com"
+typewrite-text: Let's help each other get better!
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -71,16 +71,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+# twitter_username: johndoe
+# github_username:  sujaykundu777
+# facebook_username: johndoe
+linkedin_username: wai-teng-wong
+# behance_username: johndoe
+instagram_username: waiteng_h2so4
+# medium_username: johndoe
+telegram_username: applewaiteng
+# dribbble_username: johndoe
+# flickr_username: johndoe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
