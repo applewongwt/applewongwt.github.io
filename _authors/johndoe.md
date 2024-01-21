@@ -3,7 +3,7 @@ name: Wai Teng
 username: wongwaiteng
 bio: "Wai Teng here! I'm a Business Analyst trying to up my tech skills!"
 site: http://waitengw.com
-avatar: appleavatar.png 
+avatar: appleavatar.jpg 
 email: applewongwt@gmail.com
 social:
     # - title: "github"

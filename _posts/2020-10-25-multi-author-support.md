@@ -65,7 +65,7 @@ johndoe:
    name: Wai Teng
    username: johndoe
    site: http://johndoe.com
-   avatar: appleavatar.png 
+   avatar: appleavatar.jpg 
    bio: "Hi I a John, a Web Developer and Designer."
    email: mail@johndoe.com
    social:
