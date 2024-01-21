@@ -1,5 +1,5 @@
 ---
-name: John Doe
+name: Wai Teng
 username: johndoe
 bio: "Hi I a John, a Web Developer and Designer."
 site: http://johndoe.com

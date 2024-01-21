@@ -15,7 +15,7 @@ permalink: /blog/added-multi-author-support/
 
 You can now create or collaborate with multiple authors,Especially when you are working with teams. Each author will have a unique page of her written articles also her profile widget in Articles written by his/her.
 
-For this every Author needs to have a unique username (without space) For eg. If Author is John Doe - the username should be **johndoe** or **john-doe** (without space).This key will be used by devlopr, to fetch individual author's profile pages internally.
+For this every Author needs to have a unique username (without space) For eg. If Author is Wai Teng - the username should be **johndoe** or **john-doe** (without space).This key will be used by devlopr, to fetch individual author's profile pages internally.
 
 ### Configuring Authors :
 
@@ -24,7 +24,7 @@ Under _authors folder create a author details file (username.md) with his/her us
 Then add this frontmatter to describe the author in **johndoe.md**.
 ```yml
 ---
-name: John Doe # Name of the Author
+name: Wai Teng # Name of the Author
 username: johndoe # Username of the Author
 bio: "Hi I a John, a Web Developer and Designer." # Author Bio
 site: http://johndoe.com  # Author Website URL
@@ -62,7 +62,7 @@ Next, copy the same frontmatter in _data/authors.yml (under individual author us
 ```yml
 # Author 1
 johndoe:
-   name: John Doe
+   name: Wai Teng
    username: johndoe
    site: http://johndoe.com
    avatar: johndoe.png
