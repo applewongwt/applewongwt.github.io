@@ -55,6 +55,7 @@ author_education_details:
                 # college_url: https://mit.org
                 college_degree: Bachelors in Mathematical Sciences (Specialisation in Business Analytics)
                 description: Bachelor of Science
+                GPA: 4.10/5
                 visibility: true
 
 # Projects
