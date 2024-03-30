@@ -71,7 +71,7 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: sfa_logo.png
+              - project_thumbnail: sfa_logo_crop.png
                 project_title: 1) Project for Singapore Food Agency (GCC) FSMIS
                 project_description: Web Application for Laboratories, Inspection Bodies and Auditors to apply and attain certification for Recognition programmes 
                 project_url: https://www.sfa.gov.sg/food-information/recognition-programmes
