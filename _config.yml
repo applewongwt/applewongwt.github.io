@@ -84,6 +84,18 @@ author_project_details:
                 project_url: https://www.muis.gov.sg/Haj/Services/Haj-Registration/MyHajSG
                 visibility: true
 
+
+              - project_thumbnail: smrt.jpg
+                project_title: 3)	Project for Singapore Mass Rapid Transit (Azure Cloud Services)
+                project_description: -	Web Application for Station Staff to manage their
+                                        o	Manpower Rosters
+                                        o	Cash and Inventory
+                                        o	Fault Tracking/ Station Occurrences 
+                                        o	Wayfinding and Announcements
+
+                project_url: asoms.smrt.com.sg
+                visibility: true
+
 # social links
 # twitter_username: johndoe
 # github_username:  sujaykundu777
