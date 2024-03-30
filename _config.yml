@@ -78,13 +78,13 @@ author_project_details:
                 visibility: true
 
 
-              # - project_thumbnail: 
-              #   project_title: 2) Project for Masjid Ugama Islam Singapura (GCC)
-              #   project_description: 
-              #   -	Web Application for prospective pilgrims to register and manage their status from registration to performing haj
-              #   -	Intranet portal for MUIS Officers, Internet portal for Applicants 
-              #   project_url: https://www.muis.gov.sg/Haj/Services/Haj-Registration/MyHajSG
-              #   visibility: true
+              - project_thumbnail: 
+                project_title: 2) Project for Masjid Ugama Islam Singapura (GCC)
+                project_description: 
+                -	Web Application for prospective pilgrims to register and manage their status from registration to performing haj
+                -	Intranet portal for MUIS Officers, Internet portal for Applicants 
+                project_url: https://www.muis.gov.sg/Haj/Services/Haj-Registration/MyHajSG
+                visibility: true
 
 # social links
 # twitter_username: johndoe
