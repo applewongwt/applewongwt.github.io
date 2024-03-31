@@ -87,7 +87,8 @@ author_project_details:
 
               - project_thumbnail: smrt.jpg
                 project_title: 3)	Project for Singapore Mass Rapid Transit (Azure Cloud Services)
-                project_description: Web Application for Station Staff to manage their
+                project_description: > 
+                                      Web Application for Station Staff to manage their 
                                         o	Manpower Rosters
                                         o	Cash and Inventory
                                         o	Fault Tracking/ Station Occurrences 
