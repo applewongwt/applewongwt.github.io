@@ -39,7 +39,10 @@ author_work_experiences:
               company_logo: TSP logo.png
               company_url: https://thesoftwarepractice.com/
               designation: Business Analyst/ Project Management
-              description: Worked on government projects, exposure to Azure and AWS Cloud Systems
+              description: o	Key role in managing the development of government projects, <br>
+                            risk management, collaboration with client stakeholders, <br>
+                            develop user stories, functional specifications and acceptance criteria. <br>
+                            o	Exposure to Azure and AWS Cloud Systems
               visibility: true
             - company_name: Neoasia Group
               company_logo: neoasia logo.png
