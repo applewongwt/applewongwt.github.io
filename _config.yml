@@ -52,7 +52,7 @@ author_work_experiences:
               visibility: true
             - company_name: BMW Asia
               company_logo: BMW logo.png
-              company_url: https://neoasiagroup.com/
+              # company_url: 
               designation: Product and Technology Integration | Group IT APAC Intern
               description: Agile Working Model preparation, Data Analytics, JIRA
               visibility: true
@@ -83,14 +83,15 @@ author_project_details:
               - project_thumbnail: sfa_logo_crop.png
                 project_title: 1) Project for Singapore Food Agency (GCC) 
                 project_description: Web Application for Laboratories, Inspection Bodies and Auditors to apply and attain certification for Recognition programmes 
-                project_url: https://www.sfa.gov.sg/food-information/recognition-programmes
+                # project_url: https://www.sfa.gov.sg/food-information/recognition-programmes
                 visibility: true
 
 
               - project_thumbnail: muis_crop.png
                 project_title: 2) Project for Masjid Ugama Islam Singapura (GCC)
-                project_description: Web Application for prospective pilgrims to register and manage their status from registration to performing haj
-                project_url: https://www.muis.gov.sg/Haj/Services/Haj-Registration/MyHajSG
+                project_description: Web Application for prospective pilgrims to register and manage their status from registration to performing haj <br> 
+                                      https://www.muis.gov.sg/Haj/Services/Haj-Registration/MyHajSG
+                # project_url: https://www.muis.gov.sg/Haj/Services/Haj-Registration/MyHajSG
                 visibility: true
 
 
@@ -101,8 +102,9 @@ author_project_details:
                                         o	Manpower Rosters <br>
                                         o	Cash and Inventory <br>
                                         o	Fault Tracking/ Station Occurrences <br>
-                                        o	Wayfinding and Announcements
-                project_url: asoms.smrt.com.sg
+                                        o	Wayfinding and Announcements <br>
+                                        asoms.smrt.com.sg
+                # project_url: asoms.smrt.com.sg
                 visibility: true
 
 # social links
@@ -123,7 +125,7 @@ telegram_username: applewaiteng
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+# wakatime_username: sujaykundu777
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
