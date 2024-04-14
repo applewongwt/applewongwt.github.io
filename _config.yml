@@ -83,14 +83,14 @@ author_project_details:
               - project_thumbnail: sfa_logo_crop.png
                 project_title: 1) Project for Singapore Food Agency (GCC) 
                 project_description: Web Application for Laboratories, Inspection Bodies and Auditors to apply and attain certification for Recognition programmes 
-                project_url: Related Information - https://www.sfa.gov.sg/food-information/recognition-programmes
+                project_url: https://www.sfa.gov.sg/food-information/recognition-programmes
                 visibility: true
 
 
               - project_thumbnail: muis_crop.png
                 project_title: 2) Project for Masjid Ugama Islam Singapura (GCC)
                 project_description: Web Application for prospective pilgrims to register and manage their status from registration to performing haj
-                project_url: Related Information - https://www.muis.gov.sg/Haj/Services/Haj-Registration/MyHajSG
+                project_url: https://www.muis.gov.sg/Haj/Services/Haj-Registration/MyHajSG
                 visibility: true
 
 
