@@ -1,8 +1,8 @@
 ---
 layout: post
-author: johndoe
-title: Netlify CMS created this Article
-date: 2020-05-23T09:52:20.613Z
+author: jWai Teng
+title: Getting my own site up!
+date: 2024-08-17 T11:19:20.613Z
 thumbnail: /assets/img/posts/hello.jpg
 category: jekyll
 summary: Demo Content using Netlify CMS
@@ -32,3 +32,5 @@ And:
 You can also add **blockquotes**, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
 
 > “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+
+> "I think this is a great way to learn :D"
