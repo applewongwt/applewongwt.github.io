@@ -1,6 +1,6 @@
 ---
 layout: post
-author: jWai Teng
+author: Wai Teng
 title: Getting my own site up!
 date: 2024-08-17 T11:19:20.613Z
 thumbnail: /assets/img/posts/hello.jpg

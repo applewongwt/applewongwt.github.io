@@ -26,33 +26,16 @@ Then add this frontmatter to describe the author in **johndoe.md**.
 ---
 name: Wai Teng # Name of the Author
 username: johndoe # Username of the Author
-bio: "Hi I a John, a Web Developer and Designer." # Author Bio
-site: http://johndoe.com  # Author Website URL
-avatar: johndoe.png  # Profile Image (img path will be /assets/img/authors/johndoe.png)
-email: mail@johndoe.com  # Author Email address
+bio: "Hi, I am a Business Analyst, and a Project Manager." # Author Bio
+site: http://waitengw.com  # Author Website URL
+avatar: appleavatar.jpg  # Profile Image (img path will be /assets/img/authors/johndoe.png)
+email: wongwaiteng@gmail.com  # Author Email address
 social:  # Author Social profile links
     - title: "github"
-      url: "https://github.com/johndoe"
+      url: "https://github.com/applewongwt"
     - title: "linkedin"
-      url: "https://www.linkedin.com/in/johndoe"
-    - title: "youtube"
-      url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
-    - title: "facebook"
-      url: "https://www.facebook.com/johndoe"
-    - title: "twitter"
-      url: "https://www.twitter.com/johndoe"
-    - title: "behance"
-      url: "https://behance.com/johndoe"
-    - title: "instagram"
-      url: "https://instagram.com/johndoe"
-    - title: "medium"
-      url: "https://medium.com/johndoe"
-    - title: "telegram"
-      url: "https://telegram.com/johndoe"
-    - title: "dribbble"
-      url: "https://dribbble.com/johndoe"
-    - title: "flickr"
-      url: "https://flickr.com/johndoe"
+      url: "https://www.linkedin.com/in/wai-teng-wong"
+
 ---
 ```
 You can create multiple authors similarly under _authors
